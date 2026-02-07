@@ -1,0 +1,44 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.right {
+    justify-content: center;
+
+}
+
+.right a {
+    margin-right: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    font-family: sans-serif;
+}
+
+.posts {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+}
+
+main {
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.postcard img {
+    width: 250px;
+}
+
+.postcard {
+    width: 250px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 6px;
+
+}
+.heading{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
